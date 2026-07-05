@@ -1,0 +1,6 @@
+{
+  "name": "Prize Wheel",
+  "description": "A dynamic, animated prize wheel for drawing names or numbers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
